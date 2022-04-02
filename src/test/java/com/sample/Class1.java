@@ -16,5 +16,10 @@ public class Class1 {
 		System.out.println("3");
 
 	}
+	
+	public void method4() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
