@@ -46,5 +46,9 @@ public class Class1 {
 		System.out.println("9");
 
 	}
+	
+	public void method10() {
+		System.out.println("10");
 
+}
 }
